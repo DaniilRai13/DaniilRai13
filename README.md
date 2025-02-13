@@ -93,13 +93,13 @@ I started learning programming in 2022 and have since immersed myself in the wor
       <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
       </a>
-      <br>Material UI
+      <br>Vite
     </td>
     <td align="center" width="76">
       <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" />
       </a>
-      <br>Material UI
+      <br>Webpack
     </td>
   </tr>
 </table>
