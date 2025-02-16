@@ -17,10 +17,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Web developer
 -------------
 
-I started learning programming in 2022 and have since immersed myself in the world of web development. My first web application was an online store, which inspired me to delve deeper into React <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="16" height="16" alt="React" /></a>. Currently, I'm working on creating an **_ONLINE CINEMA_** using Next.js and TypeScript. I enjoy developing web applications and constantly strive to improve my skills. 
+I started learning programming in 2022 and have since immersed myself in the world of web development. My first web application was an online store, which inspired me to delve deeper into React <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="16" height="16" alt="React" /></a>. 
+I focus on building modern, responsive, and high-performance web applications. I’m actively growing in the field of development and have already mastered key technologies that allow me to develop web applications. 
 
-* 📕 I studied at RSSchool, which provided me with a solid foundation in web development and helped me master key technologies. 
-* ⚡ Outside of programming, I have played football for five years and still enjoy spending time on the field, which keeps me active and energized. I am always open to new challenges and aim to grow as a developer. 
+### My Tech Stack
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20" height="20"/> **React** — for building interactive user interfaces.  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="20" height="20"/> **Redux Toolkit** — for state management in applications.  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"/> **TypeScript** — for improving code reliability and readability.  
+- <img src="https://redux-toolkit.js.org/img/redux.svg" alt="RTK Query" width="20" height="20"/> **RTK Query** — for working with APIs and managing data.  
+---
+* 📕 I studied at RSSchool, which provided me with a solid foundation in web development and helped me master key technologies. I understand the importance of code quality and testing.
+* ⚡ I am always open to new challenges and aim to grow as a developer. 
 * 👩‍💻 If you have interesting projects or collaboration ideas, feel free to reach out!
 * ✉️  You can contact me at [testnet02@mail.ru](mailto:testnet02@mail.ru)
 * 🌍  I'm based in Belarus, Minsk
