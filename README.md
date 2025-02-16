@@ -33,7 +33,7 @@ I started learning programming in 2022 and have since immersed myself in the wor
       <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
       </a>
-      <br>Jsonnet
+      <br>HTML
     </td>
     <td align="center" width="76">
       <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
